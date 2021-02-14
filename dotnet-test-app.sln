@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-test-api", "dotnet-test-app\dotnet-test-api.csproj", "{903B625A-E9F9-4856-9B53-5C222B0034AC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-test-website", "dotnet-test-website\dotnet-test-website.csproj", "{E29ED00D-CF1B-4D47-B48D-DEA19290A9E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{903B625A-E9F9-4856-9B53-5C222B0034AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{903B625A-E9F9-4856-9B53-5C222B0034AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{903B625A-E9F9-4856-9B53-5C222B0034AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E29ED00D-CF1B-4D47-B48D-DEA19290A9E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E29ED00D-CF1B-4D47-B48D-DEA19290A9E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E29ED00D-CF1B-4D47-B48D-DEA19290A9E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E29ED00D-CF1B-4D47-B48D-DEA19290A9E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
