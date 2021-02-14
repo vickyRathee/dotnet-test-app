@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-test-app", "dotnet-test-app\dotnet-test-app.csproj", "{903B625A-E9F9-4856-9B53-5C222B0034AC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-test-api", "dotnet-test-app\dotnet-test-api.csproj", "{903B625A-E9F9-4856-9B53-5C222B0034AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
